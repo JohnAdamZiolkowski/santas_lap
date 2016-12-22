@@ -1,0 +1,17 @@
+td {
+    text-align: left;
+    border: none;
+    padding: 5px
+}
+
+th {
+    text-align: right;
+}
+
+div {
+    width: 400px;
+}
+
+body {
+    text-align: center;
+}

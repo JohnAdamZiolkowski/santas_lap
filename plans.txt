@@ -1,0 +1,52 @@
+home page
+
+list of friends
+name (link)
+
+list of requests-out
+name (link) | cancel button
+
+list of requests-in
+name (link) | accept button | reject button
+
+list of all others
+name (link) | request button
+
+
+your friend list:
+
+
+table with list of friends
+
+
+
+
+
+
+person page (you):
+name | edit button
+
+person page (non-related):
+name
+"you aren't yet friends with person" | request button
+"you can't see their wishlist yet"
+
+person page (request sent from you):
+name
+"you've sent person a request" | cancel button
+"you can't see their wishlist yet"
+
+person page (request received):
+name
+"person has sent you a request" | accept button | reject button
+"you can't see their wishlist yet"
+
+person page (friend):
+name
+"person is your friend" | delete button
+wishlist
+make suggestion
+
+
+
+
